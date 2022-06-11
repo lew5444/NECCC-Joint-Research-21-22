@@ -1,0 +1,55 @@
+﻿plot,PD,block,rate,sp1,sp2,sp3,rye_g,weeds_g
+101,PD2,1,0,field pepperweed,giant foxtail,field violet,0,7.8
+102,PD2,1,30,field pepperweed,mouseear chickweed,,85.6,0.237
+103,PD2,1,90,field pepperweed,corn speedwell,,150.1,0.786
+104,PD2,1,15,field pepperweed,smooth bedstraw,field violet,101,1.182
+105,PD2,1,60,field pepperweed,hairy bittercress,,125.8,0.883
+106,PD2,1,120,hairy bittercress,giant foxtail,,158,0
+107,PD3,1,120,giant foxtail,field violet,,82.8,0.008
+108,PD3,1,0,giant foxtail,field violet,corn speedwell,0,10.4
+109,PD3,1,30,purselane speedwell,giant foxtail,,85.8,0
+110,PD3,1,60,giant foxtail,corn speedwell,field violet,76.3,0.18
+111,PD3,1,90,corn speedwell,giant foxtail,,87.4,0.036
+112,PD3,1,15,field violet,corn speedwell,giant foxtail,68.3,0.209
+113,PD1,1,90,field pepperweed,field violet,corn speedwell,139.2,1.683
+114,PD1,1,120,field pepperweed,corn speedwell,common chickweed,118.5,0.911
+115,PD1,1,60,field pepperweed,smooth bedstraw,corn speedwell,137.9,1.935
+116,PD1,1,0,field pepperweed,field violet,mouseear chickweed,0,14
+117,PD1,1,15,field pepperweed,mouseear chickweed,giant foxtail,48.7,11.4
+118,PD1,1,30,field violet,field pepperweed,mouseear chickweed,149.8,0.728
+201,PD3,2,90,field pepperweed,mouseear chickweed,,68.3,0.809
+202,PD3,2,15,giant foxtail,,,40.8,0.032
+203,PD3,2,30,mouseear chickweed,,,65.2,0.012
+204,PD3,2,120,field pepperweed,giant foxtail,mouseear chickweed,99.1,0.403
+205,PD3,2,0,giant foxtail,corn speedwell,field pepperweed,0,5
+206,PD3,2,60,corn speedwell,,,92.8,0.294
+207,PD1,2,30,field pepperweed,mouseear chickweed,field violet,79.8,6.6
+208,PD1,2,15,field pepperweed,field violet,mouseear chickweed,53.3,6.8
+209,PD1,2,60,mouseear chickweed,giant foxtail,,168.4,0.015
+210,PD1,2,120,field violet,giant foxtail,,179.7,0.027
+211,PD1,2,90,field pepperweed,field violet,giant foxtail,178.4,4.8
+212,PD1,2,0,field violet,field pepperweed,horseweed/marestail,0,10.6
+213,PD2,2,15,field violet,giant foxtail,field pepperweed,77.3,3.7
+214,PD2,2,60,giant foxtail,field violet,,70.8,0.108
+215,PD2,2,120,field pepperweed,mouseear chickweed,field violet,151.8,0.089
+216,PD2,2,90,field violet,corn speedwell,,100.6,0.07
+217,PD2,2,30,mouseear chickweed,corn speedwell,,137.1,0.598
+218,PD2,2,0,mouseear chickweed,giant foxtail,field violet,0,2.7
+301,PD3,3,0,giant foxtail,field violet,mouseear chickweed,0,3.9
+302,PD3,3,90,corn speedwell,giant foxtail,,42.8,0.559
+303,PD3,3,30,field violet,giant foxtail,,53.5,0.198
+304,PD3,3,60,giant foxtail,,,78,0
+305,PD3,3,15,field violet,giant foxtail,geranium,68.2,1.7
+306,PD3,3,120,field violet,corn speedwell,giant foxtail,112.6,0.527
+307,PD1,3,15,field violet,field pepperweed,geranium,55.6,13.1
+308,PD1,3,0,field pepperweed,field violet,giant foxtail,0,21
+309,PD1,3,90,field violet,mouseear chickweed,corn speedwell,131.4,3.1
+310,PD1,3,30,corn speedwell,field violet,giant foxtail,114.5,0.148
+311,PD1,3,60,geranium,mouseear chickweed,field violet,95.3,11.8
+312,PD1,3,120,field violet,,,161.8,0.07
+313,PD2,3,120,field violet,mouseear chickweed,corn speedwell,161.9,0.631
+314,PD2,3,60,field violet,giant foxtail,,95.1,0.081
+315,PD2,3,30,field violet,mouseear chickweed,field pepperweed,132.4,1.198
+316,PD2,3,90,giant foxtail,field violet,,89.4,0
+317,PD2,3,15,field violet,field pepperweed,mouseear chickweed,65.3,0.67
+318,PD2,3,0,giant foxtail,field violet,mouseear chickweed,0,1.6
